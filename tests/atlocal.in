@@ -1,0 +1,5 @@
+WISELED=@abs_top_builddir@/src/wiseled
+TESTS=@abs_top_srcdir@/tests
+CXX=@CXX@
+CXXFLAGS="@CXXFLAGS@"
+LIBS="@LIBS@"
