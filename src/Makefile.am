@@ -8,8 +8,7 @@ libnanovg_a_CFLAGS=\
 	-fstack-usage\
 	-ffunction-sections -fdata-sections\
 	-I$(srcdir)/../include/\
-	-I$(abs_top_builddir)/include/\
-	-include $(abs_top_builddir)/include/fw-config.h
+	-I$(abs_top_builddir)/include/
 
 libnanovg_a_LIBADD=\
 	$(COVERAGE_LDADD)

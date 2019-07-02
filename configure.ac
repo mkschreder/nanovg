@@ -1,6 +1,6 @@
 AC_PREREQ([2.61])
 
-AC_INIT([libnanovg], [1.0], [mkschreder.uk@gmail.com])
+AC_INIT([nanovg], [1.0], [mkschreder.uk@gmail.com])
 AC_CONFIG_AUX_DIR(aux-dist)
 AM_INIT_AUTOMAKE
 
